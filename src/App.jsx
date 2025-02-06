@@ -1,5 +1,6 @@
-import Weather from "./Component/Weather"
 import './App.css'
+import Navbar from "./News/Navbar"
+import NewsBody from './News/NewsBody'
 
 
 
@@ -8,7 +9,8 @@ function App() {
 
   return (
     <>
-      <Weather />
+      <Navbar/>
+      <NewsBody/>
 
     </>
   )
