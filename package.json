@@ -1,7 +1,7 @@
 {
   "homepage": "https://Shivam-Goel8.github.io/News-App",
   "name": "news-app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
